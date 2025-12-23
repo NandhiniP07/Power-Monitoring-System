@@ -86,32 +86,4 @@ npm start
 ```
 *App runs on: http://localhost:3000*
 
-## 🔐 Login Credentials
 
-Use these default accounts to test the system:
-
-| Role | Email | Password | Access |
-|------|-------|----------|--------|
-| **Admin** | `admin@powereye.com` | `admin123` | Full Access (Users, Machines, Settings) |
-| **Operator** | `operator@powereye.com` | `operator123` | Monitoring & Alerts Only |
-
-## 📁 Project Structure
-
-```
-d:\Powereye/
-├── Backend/              # Express API & Database Logic
-│   ├── Server.js         # Main Application Entry
-│   ├── database-setup.sql
-│   └── ...
-├── frontend/             # React Application
-│   ├── src/
-│   │   ├── pages/        # Dashboard, Machines, Alerts Views
-│   │   ├── components/   # Reusable UI Components
-│   │   └── context/      # Auth & Theme Context
-│   └── ...
-└── README.md             # Project Documentation
-```
-
-## 🛡️ License
-
-This project is licensed under the MIT License.

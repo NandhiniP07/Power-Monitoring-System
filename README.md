@@ -37,7 +37,7 @@ PowerEye is a comprehensive industrial power monitoring dashboard designed for r
 
 1.  **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/NandhiniP07/Power-Monitoring-System.git
     cd Powereye
     ```
 
